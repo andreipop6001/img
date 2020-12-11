@@ -1168,7 +1168,7 @@
 		}, {
 			"id": "first place"
 		}, {
-			"id": "ad",
+			"id": "advertisement",
 			"ie": 1
 		}, {
 			"id": "signature",
@@ -1580,11 +1580,8 @@
 			"id": "entryway",
 			"rf": "entrance"
 		}, {
-			"id": "bath",
-			"ie": 1
-		}, {
 			"id": "bathtub",
-			"rf": "bath"
+			"ie": 1
 		}, {
 			"id": "home"
 		}, {
@@ -1968,7 +1965,7 @@
 			"rf": "work"
 		}, {
 			"id": "cleaning",
-			"rf": "clean"
+			"ie": 1
 		}, {
 			"id": "dusting",
 			"rf": "clean"
@@ -5362,7 +5359,7 @@
 		}, {
 			"id": "in such a way that"
 		}, {
-			"id": "Cheers",
+			"id": "Cheers!",
 			"ie": 1
 		}, {
 			"id": "by the way"
