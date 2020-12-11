@@ -4656,11 +4656,6 @@
 		"ch": "訳す",
 		"en": ["translate", "interpret"]
 	}, {
-		"id": "tsukau",
-		"fg": "つか",
-		"ch": "使う",
-		"en": ["use", "make use of"]
-	}, {
 		"id": "hairu",
 		"fg": "はい",
 		"ch": "入る",
